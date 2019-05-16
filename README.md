@@ -1,5 +1,5 @@
 # Cinema application UI
-This repository contains source code for cinema application with movie cards and details screen with animation. This application is inspired by [Krystian Bieda](https://dribbble.com/shots/5309805-Cinema-App) design, and I implemented by using [Bloc]() and sample animations with some mocked data.
+This repository contains source code for cinema application with movie cards and details screen with animation. This application is inspired by [Krystian Bieda](https://dribbble.com/shots/5309805-Cinema-App) design, and I implemented by using [Bloc](https://pub.dev/packages/bloc) and sample animations with some mocked data.
 
 
 ## Installation
