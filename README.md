@@ -26,4 +26,4 @@ or by downloading repository as zip file and exctact it to your desired location
 </table>
 
 ## License
-License is MIT, see [LICENSE](LICENSE.md)
+License is MIT, see [LICENSE](LICENSE)
