@@ -6,7 +6,7 @@ This repository contains source code for cinema application with movie cards and
 Download this repository into your desired location (for example Desktop) using [git](https://git-scm.com/):
 ```
 cd C:\Users\Username\Desktop
-git clone https://github.com/blizzy312/hidden_navigation.git
+git clone https://github.com/blizzy312/cinema_app_ui.git
 ```
 or by downloading repository as zip file and exctact it to your desired location.
 
@@ -19,7 +19,7 @@ or by downloading repository as zip file and exctact it to your desired location
   </thead>
   <tbody>
         <tr>
-          <td align="center"><img src="/cinema_app_ui.gif"  width="750" height="500"/></td>
+          <td align="center"><img src="/cinema_app_ui.gif"  width="500" height="800"/></td>
         </tr>
   </tbody>
   
