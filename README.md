@@ -1,16 +1,27 @@
-# cinema_app_ui
+# Cinema application UI
+This repository contains source code for cinema application with movie cards and details screen with animation. This application is inspired by [Krystian Bieda](https://dribbble.com/shots/5309805-Cinema-App) design, and I implemented by using [Bloc]() and sample animations with some mocked data.
 
-A cinema application that recreates some custom UI.
 
-## Getting Started
+## Installation
+Download this repository into your desired location (for example Desktop) using [git](https://git-scm.com/):
+```
+cd C:\Users\Username\Desktop
+git clone https://github.com/blizzy312/hidden_navigation.git
+```
+or by downloading repository as zip file and exctact it to your desired location.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Application Overview
+<table >
+  <thead>
+        <tr>
+            <th>My application</th>
+            
+        </tr>
+  </thead>
+  <tbody>
+        <tr>
+          <td align="center"><img src="/cinema_app_ui.gif"  width="750" height="500"/></td>
+        </tr>
+  </tbody>
+  
+</table>
