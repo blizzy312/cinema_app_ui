@@ -19,7 +19,7 @@ or by downloading repository as zip file and exctact it to your desired location
   </thead>
   <tbody>
         <tr>
-          <td align="center"><img src="/cinema_app_ui.gif"  width="500" height="800"/></td>
+          <td align="center"><img src="/cinema_app_ui.gif"  width="500" height="900"/></td>
         </tr>
   </tbody>
   
