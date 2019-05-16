@@ -15,7 +15,6 @@ or by downloading repository as zip file and exctact it to your desired location
   <thead>
         <tr>
             <th>My application</th>
-            
         </tr>
   </thead>
   <tbody>
